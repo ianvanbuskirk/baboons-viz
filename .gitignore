@@ -1,0 +1,12 @@
+.venv/
+analysis/__pycache__/
+analysis/data/
+
+# common
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# latex build artifacts
+summary/output/
